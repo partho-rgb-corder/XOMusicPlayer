@@ -1,7 +1,6 @@
 package com.xoplayer.app.ui.settings
 
 import androidx.compose.foundation.clickable
-import androidx.compose.foundation.layout.weight
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.PaddingValues
 import androidx.compose.foundation.layout.Row
